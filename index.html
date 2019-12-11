@@ -9,7 +9,28 @@
 <body>
   <header></header>
   <nav></nav>
-  <main></main>
+  <main><form>
+    <!-- TODO: Use <div>s along with FLEXBOX to format this form with 'mobile-first' responsive design. -->
+    <div>
+      <label for="Curve Button">
+        My 'for' attribute value corresponds with the id attribute of an
+        input for 'good' accessibility.
+      </label>
+      <input id="Curve-Button" type="text" required />
+    </div>
+
+    <div>
+      <label for="student-grade">
+        Don't worry! 😉 JS WILL still bring this in as STRING even if you
+        have 'number' as attribute.
+        </label>
+      <input id="student-grade" type="number" required/>
+    </div>
+
+    <div>
+      <button>Curve Scores!</button>
+    </div>
+  </form></main>
   <footer>&copy;2019 SavvyCoders, Fall</footer>
 </body>
 </html>
