@@ -8,3 +8,9 @@ _This app allows a teacher the ability to catalog each student's scores, and pos
 -Marque
 -George
 -Sidney
+
+## M.A.T.H
+-Madi Ryan
+-Andrew Harper
+-Tracie Walka
+-Heather Nash
