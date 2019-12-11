@@ -13,7 +13,7 @@ _This app allows a teacher the ability to catalog each student's scores, and pos
 -Billy
 -Nikki
 -Martin
--Heather
+-Rhondalyn
 
 ## M.A.T.H
 -Madi Ryan
