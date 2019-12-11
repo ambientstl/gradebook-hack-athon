@@ -1,7 +1,7 @@
 function render() {
   document.querySelector("#root").innerHTML = `
-    ${Nav()}
     ${Header()}
+    ${Nav()}
     ${Main()}
     ${Footer()}
   `;
